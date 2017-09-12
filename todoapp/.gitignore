@@ -38,3 +38,5 @@ $RECYCLE.BIN/
 #################
 
 todoapp/node_modules/
+.idea/inspectionProfiles/
+node_modules/
